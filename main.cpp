@@ -1,4 +1,2 @@
-int main()
-{
-    
-}
+#include "Character.h"
+int main() {}
